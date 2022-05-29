@@ -1,3 +1,6 @@
+# Purpose
+Introductory React app following the "React JS Crash Course" tutorial by Brad Traversy. This task tracker app gave me an overview of components, props, state, hooks, APIs, and ReactRouter.
+
 # How to run the application
 Make sure npm is installed. To view versions of dependencies, click on `package.json`.
 
